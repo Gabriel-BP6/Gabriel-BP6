@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Gabriel Paludeto 👋
 
-<!--
-**Gabriel-BP6/Gabriel-BP6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm Gabriel Paludeto, a passionate beginner in the world of computing and software development. Currently, I'm pursuing my degree in **Computer Science**  at **Unifil** (Universidade Filadélfia).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm at the very beginning of my journey, but I'm highly motivated to learn, improve every day, and build meaningful projects. I believe that consistency and curiosity are the keys to becoming a great developer.
+
+### 🌱 Currently Learning
+- Programming Logic and Problem Solving
+- Git & GitHub
+- Computer Science fundamentals
+
+### 🎯 Goals
+- Master software development fundamentals
+- Build a strong portfolio with real projects
+- Contribute to open source projects
+- Become a proficient full-stack 
+- Never stop learning
+
+### 💡 What I Value
+- Continuous improvement
+- Sharing knowledge
+- Collaborative work
+
+---
+
+## 🛠 Technologies & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
